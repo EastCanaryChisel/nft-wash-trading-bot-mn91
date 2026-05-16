@@ -1,4 +1,4 @@
-# 
+# high-frequency nft wash trading bot | cross-market-arbitrage + trailing-stop is the best nft wash trading bot, featuring cross-market-arbitrage and trailing-stop. Fast, smart, and
 
 
 
